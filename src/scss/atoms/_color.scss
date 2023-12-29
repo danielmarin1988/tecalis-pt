@@ -1,0 +1,11 @@
+.color{
+
+    $self: &;
+
+    &-bg{
+
+        &--babyblue{
+            background-color: $babyblue;
+        }
+    }
+}

@@ -1,0 +1,54 @@
+
+
+// 64 xxl
+// 48 xl
+// 32 l
+// 16 m
+// 8 s
+
+
+// contain
+
+.u-px-contain{padding:0 32px;}
+
+
+// PADDING TOP
+
+.u-pt-xxl{padding-top:32px}
+.u-pt-xl{padding-top:48px}
+.u-pt-l{padding-top:32px}
+.u-pt-m{padding-top:16px}
+.u-pt-s{padding-top:8px}
+
+@media(min-width:769px){
+    .u-pt-xxl{padding-top:64px}
+}
+
+
+// PADDING BOTTOM
+
+.u-pb-xxl{padding-bottom:32px}
+.u-pb-xl{padding-bottom:48px}
+.u-pb-l{padding-bottom:32px}
+.u-pb-m{padding-bottom:16px}
+.u-pb-s{padding-bottom:8px}
+
+@media(min-width:769px){
+    .u-pb-xxl{padding-bottom:64px}
+}
+
+// MARGIN TOP
+
+.u-mt-xxl {margin-top: 64px;}
+.u-mt-xl  {margin-top: 48px;}
+.u-mt-l   {margin-top: 32px;}
+.u-mt-m   {margin-top: 16px;}
+.u-mt-s   {margin-top: 8px;}
+
+// MARGIN BOTTOM
+
+.u-mb-xxl {margin-bottom: 64px;}
+.u-mb-xl  {margin-bottom: 48px;}
+.u-mb-l   {margin-bottom: 32px;}
+.u-mb-m   {margin-bottom: 16px;}
+.u-mb-s   {margin-bottom: 8px;}
